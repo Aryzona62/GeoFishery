@@ -1,0 +1,74 @@
+[
+    {
+        "id": 4,
+        "title": "Gurame",
+        "marker_image": "https:\/\/unair.ac.id\/wp-content\/uploads\/2022\/09\/Foto-oleh-aquadiction.world_.jpg",
+        "url": "detail-rekomendasi\/10",
+        "address": "Pantai Pelabuhan Ratu",
+        "latitude": "-6.995326693190838",
+        "longitude": "106.54307656641936",
+        "komoditas_id": 10,
+        "created_at": "2023-10-30T14:04:14.000000Z",
+        "updated_at": "2023-10-30T14:04:14.000000Z"
+    },
+    {
+        "id": 5,
+        "title": "Patin",
+        "marker_image": "http:\/\/trobosaqua.com\/thumbnail\/b_13457.jpeg",
+        "url": "detail-rekomendasi\/13",
+        "address": "Pantai Muara Beting",
+        "latitude": "-5.922512522599494",
+        "longitude": "107.04769006883564",
+        "komoditas_id": 13,
+        "created_at": "2023-10-30T14:10:35.000000Z",
+        "updated_at": "2023-10-30T14:10:35.000000Z"
+    },
+    {
+        "id": 6,
+        "title": "Kembung",
+        "marker_image": "https:\/\/d1vbn70lmn1nqe.cloudfront.net\/prod\/wp-content\/uploads\/2022\/10\/17065323\/Jarang-Disadari-Ini-X-Manfaat-Ikan-Kembung-bagi-Kesehatan.jpg",
+        "url": "detail-rekomendasi\/14",
+        "address": "Pantai Pasir Putih",
+        "latitude": "-6.027335218778604",
+        "longitude": "106.52434655546185",
+        "komoditas_id": 14,
+        "created_at": "2023-10-30T14:11:27.000000Z",
+        "updated_at": "2023-10-30T14:11:27.000000Z"
+    },
+    {
+        "id": 7,
+        "title": "Kakap",
+        "marker_image": "https:\/\/d1vbn70lmn1nqe.cloudfront.net\/prod\/wp-content\/uploads\/2022\/11\/30105045\/Tinggi-Protein-Ini-X-Manfaat-Ikan-Kakap-untuk-Kesehatan.jpg",
+        "url": "detail-rekomendasi\/11",
+        "address": "Pantai Kelapa Tujuh",
+        "latitude": "-5.892909128044696",
+        "longitude": "106.02176831225269",
+        "komoditas_id": 11,
+        "created_at": "2023-10-30T14:12:23.000000Z",
+        "updated_at": "2023-10-30T14:12:23.000000Z"
+    },
+    {
+        "id": 8,
+        "title": "Bawal",
+        "marker_image": "https:\/\/assets.petpintar.com\/cache\/583\/375\/userfiles\/2\/1599108945-ciri-ciri-ikan-bawal-1.jpg",
+        "url": "detail-rekomendasi\/12",
+        "address": "Pantai Cirewang",
+        "latitude": "-6.18932967437763",
+        "longitude": "107.85539764950335",
+        "komoditas_id": 12,
+        "created_at": "2023-10-30T14:13:47.000000Z",
+        "updated_at": "2023-10-30T14:13:47.000000Z"
+    },
+    {
+        "id": 9,
+        "title": "Lobster",
+        "marker_image": "https:\/\/s3-publishing-cmn-svc-prd.s3.ap-southeast-1.amazonaws.com\/article\/vlD5w0lLG7l1QSjgOpOy4\/original\/025209600_1577372844-Heboh-Soal-Benih-Lobster-Ini-Manfaatnya-Bagi-Kesehatan-Anda-Shutterstock_22673587.jpg",
+        "url": "detail-rekomendasi\/15",
+        "address": "Pantai Pengarengan",
+        "latitude": "-6.762181570705027",
+        "longitude": "108.64164947669715",
+        "komoditas_id": 15,
+        "created_at": "2023-11-13T14:43:17.000000Z",
+        "updated_at": "2023-11-13T14:43:17.000000Z"
+    }
+]
