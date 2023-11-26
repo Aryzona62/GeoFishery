@@ -115,16 +115,5 @@ class HomeController extends Controller
         return redirect('/');
     }
 
-    public function coba()
-    {
-        $data_baru = ['title' => 'cabai'];
-
-        $id = 1;
-
-        $coba = new Map();
-        $coba->edit($id, $data_baru);
-
-        $coba = $coba->tampil();
-        dd($coba);
-    }
+    
 }
