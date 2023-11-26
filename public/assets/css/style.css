@@ -2272,6 +2272,9 @@ form label.error {
 .gtn-box-rounded .gtn-team-img,
 .gtn-box-rounded .gtn-team-img img {
   border-radius: 10px 10px 0 0;
+  min-height: 210px;
+  max-height: 210px;
+  object-fit: cover;
 }
 .gtn-box-rounded .gtn-team-content {
   border-radius: 0 0 10px 10px;
@@ -2390,6 +2393,7 @@ form label.error {
 .gtn-post-img img {
   border-radius: 10px;
   max-height: 210px;
+  min-height: 210px;
   width: 100%;
   object-fit: cover;
 }
